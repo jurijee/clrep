@@ -1,0 +1,6 @@
+D:\Vytvory\CLStudentsDb\CLStudentsDb\bin\Debug\CLStudentsDb.dll
+D:\Vytvory\CLStudentsDb\CLStudentsDb\bin\Debug\CLStudentsDb.pdb
+D:\Vytvory\CLStudentsDb\CLStudentsDb\obj\Debug\CLStudentsDb.csprojAssemblyReference.cache
+D:\Vytvory\CLStudentsDb\CLStudentsDb\obj\Debug\CLStudentsDb.csproj.CoreCompileInputs.cache
+D:\Vytvory\CLStudentsDb\CLStudentsDb\obj\Debug\CLStudentsDb.dll
+D:\Vytvory\CLStudentsDb\CLStudentsDb\obj\Debug\CLStudentsDb.pdb
